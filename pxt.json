@@ -7,14 +7,15 @@
         "core": "*",
         "neopixel": "github:elecfreaks/pxt-neopixel#v0.6.18"
     },
-    "files": [
-        "README.md",
-        "main.ts",
-        "IR.cpp",
-        "shims.d.ts",
-        "enums.d.ts",
-        "_locales/zh-cn/pxt-cutebotpro-strings.json"
-    ],
+  "files": [
+    "README.md",
+    "main.ts",
+    "IR.cpp",
+    "shims.d.ts",
+    "enums.d.ts",
+    "_locales/zh-cn/pxt-cutebotpro-strings.json",
+    "_locales/de/pxt-cutebotpro-strings.json"
+  ],
     "testFiles": [
         "test.ts"
     ],
